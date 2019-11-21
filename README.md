@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=y5F4Brf7FBs
 
 https://www.youtube.com/watch?v=I0a58h1OCcg
 
-# Fluxograma
+# Fluxograma e Diagrama de classes e relacionamentos
 
 Os dados escolhidos para serem analisados foram:
 
@@ -34,6 +34,21 @@ Possibilidade de verificar quais parceiros recebem mais dinheiro, CNPJs que mais
 Pode-se verificar quais receitas arrecadas estão mais baixas que o esperado, além da existência de algum mês em especial que os valores arrecadados foram bem menores que a média.
 
 O fluxograma pode ser visto a seguir:
+
+<img src = 'image/fluxograma.png' height = 500>
+
+O diagrama de classes foi feito com cada classe sendo uma planilha de dados, cada atributo sendo uma coluna que será útil e nos métodos as matrizes de análise que se pretende gerar.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
