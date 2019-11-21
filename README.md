@@ -1,6 +1,7 @@
 # victoria_anticorrupcao
 
 O projeto tem o objetivo de criar um programa em python que interprete dados de despesa, receita, favorecidos por gastos, parcerias e contratos do Rio de Janeiro em 2019 para identificar possíveis atividades ilícitas. Os dados utilizados foram recolhidos do github do Hackfest e podem ser consultados no link a seguir:
+
 https://github.com/mp-rj/dados-hackfestcc
 
 A motivação era aprender do zero sobre data science, algo que acredito que vai me ajudar na vida profissional, em um projeto envolvente e que tem disponível muitas fontes para consulta.
@@ -8,6 +9,7 @@ A motivação era aprender do zero sobre data science, algo que acredito que vai
 # Escolha da biblioteca gráfica
 
 Por se tratar de um projeto de ciência de dados a escolha da biblioteca gráfica apresentou algumas dificuldades, principalmente pelo desenvolvimento do código estar sendo feito em Google Colab, o que não era o planejado inicialmente. Como a biblioteca utilizada para análise de dados é a Pandas, escolheu-se a biblioteca Bamboo para gerar a GUI. Não foram encontrados tutoriais na internet, apenas vídeos exibindo como ela pode ser utilizada. Os links dos vídeos seguem abaixo:
+
 https://www.youtube.com/watch?v=y5F4Brf7FBs
 
 https://www.youtube.com/watch?v=I0a58h1OCcg
@@ -30,6 +32,8 @@ Possibilidade de verificar quais parceiros recebem mais dinheiro, CNPJs que mais
 
 5. Receita
 Pode-se verificar quais receitas arrecadas estão mais baixas que o esperado, além da existência de algum mês em especial que os valores arrecadados foram bem menores que a média.
+
+O fluxograma pode ser visto a seguir:
 
 
 
