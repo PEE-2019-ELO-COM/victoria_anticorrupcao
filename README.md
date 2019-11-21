@@ -9,6 +9,7 @@ A motivação era aprender do zero sobre data science, algo que acredito que vai
 
 Por se tratar de um projeto de ciência de dados a escolha da biblioteca gráfica apresentou algumas dificuldades, principalmente pelo desenvolvimento do código estar sendo feito em Google Colab, o que não era o planejado inicialmente. Como a biblioteca utilizada para análise de dados é a Pandas, escolheu-se a biblioteca Bamboo para gerar a GUI. Não foram encontrados tutoriais na internet, apenas vídeos exibindo como ela pode ser utilizada. Os links dos vídeos seguem abaixo:
 https://www.youtube.com/watch?v=y5F4Brf7FBs
+
 https://www.youtube.com/watch?v=I0a58h1OCcg
 
 # Fluxograma
