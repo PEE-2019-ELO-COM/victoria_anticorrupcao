@@ -41,8 +41,11 @@ O diagrama de classes foi feito com cada classe sendo uma planilha de dados, cad
 
 <img src = 'image/diag_classes.png' height=500>
 
+# Esboço GUI projeto
 
+A imagem a seguir é um esboço da interface que se deseja criar, sendo os arquivos a serem analisados as 5 planilhas de dados (contratos, despesas, favorecidos, parcerias e receita). O tipo de análise varia dependendo da planilha escolhida.
 
+<img src = 'image/esboco_gui.png' height=500>
 
 
 
