@@ -50,7 +50,7 @@ A imagem a seguir é um esboço da interface que se deseja criar, sendo os arqui
 # Esboço do projeto
 
 Inicialmente surgiram várias dificuldades no projeto, foram utilizados duas diferentes IDLE, mas não estava dando certo baixar todas as bibliotecas necessárias. Quando foi possível exibir os dados, não estavam de forma clara e manipulá-los estava muito difícil. Então, foi preferível analisar os dados inicialmente em Excel, ambiente mais confortável para mim que estou começando com data science, excluir colunas que a princípio não seriam úteis e renomear colunas que estavam com caracteres como acentos e ç. 
-Para poder visualizar melhor os dados e resolver os problemas de baixar todas as bibliotecas no Windows, decidiu-se utilizar o Google Colab, um ambiente de notebooks Jupyter que não requer configuração e é executada na nuvem, além de escrever e executar códigos em Python, que é o desejado.
+Para poder visualizar melhor os dados e resolver os problemas de baixar todas as bibliotecas no Windows, decidiu-se utilizar o Google Colab, um ambiente de notebooks Jupyter que não requer configuração e é executado na nuvem, além de escrever e executar códigos em Python, que é o desejado.
 
 A seguir o link do colab:
 
