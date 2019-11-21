@@ -39,6 +39,7 @@ O fluxograma pode ser visto a seguir:
 
 O diagrama de classes foi feito com cada classe sendo uma planilha de dados, cada atributo sendo uma coluna que será útil e nos métodos as matrizes de análise que se pretende gerar.
 
+<img src = 'image/diag_classes.png' height=500>
 
 
 
