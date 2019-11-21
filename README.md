@@ -45,8 +45,16 @@ O diagrama de classes foi feito com cada classe sendo uma planilha de dados, cad
 
 A imagem a seguir é um esboço da interface que se deseja criar, sendo os arquivos a serem analisados as 5 planilhas de dados (contratos, despesas, favorecidos, parcerias e receita). O tipo de análise varia dependendo da planilha escolhida.
 
-<img src = 'image/esboco_gui.png' height=500>
+<img src = 'image/esboco_gui.png' height=600>
 
+# Esboço do projeto
+
+Inicialmente surgiram várias dificuldades no projeto, foram utilizados duas diferentes IDLE, mas não estava dando certo baixar todas as bibliotecas necessárias. Quando foi possível exibir os dados, não estavam de forma clara e manipulá-los estava muito difícil. Então, foi preferível analisar os dados inicialmente em Excel, ambiente mais confortável para mim que estou começando com data science, excluir colunas que a princípio não seriam úteis e renomear colunas que estavam com caracteres como acentos e ç. 
+Para poder visualizar melhor os dados e resolver os problemas de baixar todas as bibliotecas no Windows, decidiu-se utilizar o Google Colab, um ambiente de notebooks Jupyter que não requer configuração e é executada na nuvem, além de escrever e executar códigos em Python, que é o desejado.
+
+A seguir o link do colab:
+
+https://colab.research.google.com/drive/1gEiwc84tXKUU7am_pPl21QFQIOH7r6cP
 
 
 
