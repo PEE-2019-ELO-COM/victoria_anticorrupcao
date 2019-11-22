@@ -58,10 +58,7 @@ https://colab.research.google.com/drive/1gEiwc84tXKUU7am_pPl21QFQIOH7r6cP
 
 edit: Por algum motivo que ainda estou tentando descobrir, meu trabalho não foi salvo nesse link, então enquanto não descubro como recuperar, vou tentar refazer no link abaixo:
 
-https://colab.research.google.com/drive/1uWnelOMg7kkI90mcEHbCb-00hWf_oWJX
-
-
-
+https://colab.research.google.com/drive/1hzEBTRAUW5kVoOyPvXTRkdbG-bvefwPu
 
 
 
