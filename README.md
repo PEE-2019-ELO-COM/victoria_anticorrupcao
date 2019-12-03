@@ -49,7 +49,6 @@ A imagem a seguir é um esboço da interface que se deseja criar, sendo os arqui
 
 <img src = 'image/esboco_gui.png' height=600>
 
-
 # Projeto
 
 Inicialmente surgiram várias dificuldades no projeto, foram utilizados duas diferentes IDLE, mas não estava dando certo baixar todas as bibliotecas necessárias. Quando foi possível exibir os dados, não estavam de forma clara e manipulá-los estava muito difícil. Então, foi preferível analisar os dados inicialmente em Excel, ambiente mais confortável para mim que estou começando com data science, excluir colunas que a princípio não seriam úteis e renomear colunas que estavam com caracteres como acentos e ç. 
