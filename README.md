@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=y5F4Brf7FBs
 
 https://www.youtube.com/watch?v=I0a58h1OCcg
 
+Atualização: Não foi possível utilizar a biblioteca Bamboo pois ela não está disponível no Colab, entretanto, o Colab já possui uma interface amigável, mostrando os resultados em tabelas de fácil entendimento.
+
 # Fluxograma e Diagrama de classes e relacionamentos
 
 Os dados escolhidos para serem analisados foram:
@@ -47,18 +49,19 @@ A imagem a seguir é um esboço da interface que se deseja criar, sendo os arqui
 
 <img src = 'image/esboco_gui.png' height=600>
 
-# Esboço do projeto
+
+# Projeto
 
 Inicialmente surgiram várias dificuldades no projeto, foram utilizados duas diferentes IDLE, mas não estava dando certo baixar todas as bibliotecas necessárias. Quando foi possível exibir os dados, não estavam de forma clara e manipulá-los estava muito difícil. Então, foi preferível analisar os dados inicialmente em Excel, ambiente mais confortável para mim que estou começando com data science, excluir colunas que a princípio não seriam úteis e renomear colunas que estavam com caracteres como acentos e ç. 
 Para poder visualizar melhor os dados e resolver os problemas de baixar todas as bibliotecas no Windows, decidiu-se utilizar o Google Colab, um ambiente de notebooks Jupyter que não requer configuração e é executado na nuvem, além de escrever e executar códigos em Python, que é o desejado.
 
-A seguir o link do colab:
-
-https://colab.research.google.com/drive/1gEiwc84tXKUU7am_pPl21QFQIOH7r6cP
-
-edit: Por algum motivo que ainda estou tentando descobrir, meu trabalho não foi salvo nesse link, então enquanto não descubro como recuperar, vou tentar refazer no link abaixo:
+A seguir o link do colab, onde é possível visualizar as tabelas geradas nas análises:
 
 https://colab.research.google.com/drive/1hzEBTRAUW5kVoOyPvXTRkdbG-bvefwPu
+
+
+
+
 
 
 
